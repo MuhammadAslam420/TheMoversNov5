@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "the-movers-new",
+  "private_key_id": "80d2eee139532580d0553641f273ea8da66873ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOqBzfKybCYsWi\ngIOXKdWrBPU941IEftkMrVrgEE24zNlH/Lx6808sGGNA1bizK6xXd0tt0PROw6tM\nyLTP7BFt0eC/6bmTCiiruaESBbPBr/qn2r6QAKTjViPpfj5L3SWHBvc2zhRRWs5/\n/Ds558cvo+TuDW47vt45Ges+J4+9b6kvPjkHnFgZbNnJSTpJU0fNGlV/w+dtOU1R\ncpbadMzf/3ij3UVcUyBdA/TQBihUbbAe4+hKj+ufBWgBiiktY30EyZWBGrAe8MFg\nbv0KZccuXULtaqkdnl5WCcLIw7l18m5ut0dzrBvYiJgPsRWsP5NWm0y+8/+r9oqY\nWukwqjebAgMBAAECggEADumuEvpM0/dFV8Z9exjpeDZNeMnBsiycfgHFRTUPGul3\nMVpPTb8PoLlv7sAozbocCwyyeulkELPNvXohxLaV39gX2ZgSSTe/pqwCFYM5Fl9S\nIafxUdZvZkCEAo2q731PxfzJbRY/8309pw10F4qOPQGyFdybkG1Uh72Y5Od31EKn\nA2oVz8TAMY9yQnkQctlvyg5JERll+8To0YePGbHh/4yc3Yv6clPd1PedxDNE6ijj\nFYoIi6K5NYRpYOok6+h9WiJx7I2RGl9ka6e9nbNgWAHb4HtEAlaSk+bCq0M9stBU\nkWqh012DixmdLQubTz5BCMQBGWeSyxQ+upM4a+5FEQKBgQDDDuow+ECp0o5OoGlY\nN8js97JFZpSYG/cbeUl+vYjhXZoNAv6gy+/dKAfWsbaGJLyjvztp0UJ3N2LbJ1P+\niBTsb9cJJEQpJ2swIsTTSodXhLsmFG9Qo+lty5XHHNGZIdoKzanb3iYc3vHA/pBx\nDiFjJg/VbqTfzi/1aWH7T0KJGQKBgQC7OghuE6vyMrRmiw/6Is7mJ/JtdrJQlOWA\nyLbD/aVrli2BEiv0eu1wY8BXOMPzvfRWO17g1ezBVYa3QGPo4NEdW0xNGciaLPmi\n6eHd6m4SkUzFbxQ2rFq9QYAbIjcRym9T1RjO3ibdD3FjZFn84jdwFgzfU98EQ+XU\nHaxm8Xv40wKBgBFiderxZUn9cyN81oa/ShAcr23SC7JW47o2IB/Eort7TSyVtL3+\nDx3F4JT498yS36E0fQYcWXEopY3kvm60EDFWcnLlIZINalc68hHm1ZMuSEPHlHg6\nc6aOe4XogqHES5uk4tuuu/Tcxe0ugw8gdEdS8BxUpSsxREL6JnpwgPyZAoGAFZGj\n8vp1LpvEyKNwncJwz3b+qLmp5TqiDeoRlBaeffx5FYuAYNPgkrgLKoExodzaTyzb\ny08ZzVQLBwV1/RgZPyaLbb5wq8JOqAQFr0kYkS8IBx6612mXsoHfPkD80yHdHW1J\nRFu3YnQq/eZLr6Rn+pOvu/KvmJAx4/PfLqTXQV0CgYB7fC2+FC7EnNXafGPuq8Bq\nrSPjef2NZiH1rmLYVkZLgzdil6DAlPGVRDudO9uSydBxqyQunEsiTQlxXsnWMyu5\nof5yiSB80QppYkMQPLXOhS62dUN0AeLl33EUbPMEqtnLtZpBnzdedVVW+XpmeNiG\np2vbGqMblZN9Uwr3v5Kyng==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n2ufk@the-movers-new.iam.gserviceaccount.com",
+  "client_id": "116286503083723874936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n2ufk%40the-movers-new.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
